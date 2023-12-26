@@ -1,0 +1,39 @@
+_repo: The-Russian-novelists_72271
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Edmands, Jane Loring
+    gutenberg_agent_id: '56629'
+    url: http://www.gutenberg.org/2009/agents/56629
+creator:
+  author:
+    agent_name: Vogüé, Eugène-Melchior, vicomte de
+    aliases:
+    - De Vogüé, Eugène-Melchior, vicomte
+    - Vogue, Eugene-Melchior, vicomte de
+    - Vogüé, E.-M. (Eugène-Melchior), vicomte de
+    - Vogüé, Eugène Marie Melchior, vicomte de
+    birthdate: 1848
+    deathdate: 1910
+    gutenberg_agent_id: '42050'
+    url: http://www.gutenberg.org/2009/agents/42050
+description: ''
+gutenberg_issued: '2023-11-30'
+identifiers:
+  gutenberg: '72271'
+language: en
+pgterms:marc904: https://archive.org/details/russiannovelists00voge
+pgterms:marc905: 20230416083551vog
+pgterms:marc906: '1887'
+pgterms:marc907: us
+production_note: Carol Brown, Peter Becker and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aBoston :$bD. Lothrop company, $c1887.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Russian novelists
+url: http://www.gutenberg.org/ebooks/72271
