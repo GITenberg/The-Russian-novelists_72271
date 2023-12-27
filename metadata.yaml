@@ -5,6 +5,9 @@ contributor:
     agent_name: Edmands, Jane Loring
     gutenberg_agent_id: '56629'
     url: http://www.gutenberg.org/2009/agents/56629
+covers:
+- cover_type: archival
+  image_path: 72271-h/images/cover.jpg
 creator:
   author:
     agent_name: Vogüé, Eugène-Melchior, vicomte de
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '42050'
     url: http://www.gutenberg.org/2009/agents/42050
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72271#The-Russian-novelists
 gutenberg_issued: '2023-11-30'
 identifiers:
   gutenberg: '72271'
